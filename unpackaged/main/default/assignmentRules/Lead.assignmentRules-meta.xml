@@ -3,7 +3,7 @@
         <fullName>Standard</fullName>
         <active>true</active>
         <ruleEntry>
-            <assignedTo>sam.fallon-git-demo-dev@gearset.com</assignedTo>
+            <assignedTo>sam.fallon-dev@gearset.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Lead.Country</field>
@@ -12,7 +12,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>sam.fallon-git-demo-dev@gearset.com</assignedTo>
+            <assignedTo>sam.fallon-dev@gearset.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Lead.Country</field>

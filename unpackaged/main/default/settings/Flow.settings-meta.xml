@@ -3,7 +3,7 @@
     <canDebugFlowAsAnotherUser>false</canDebugFlowAsAnotherUser>
     <doesEnforceApexCpuTimeLimit>false</doesEnforceApexCpuTimeLimit>
     <doesFormulaEnforceDataAccess>false</doesFormulaEnforceDataAccess>
-    <doesFormulaGenerateHtmlOutput>false</doesFormulaGenerateHtmlOutput>
+    <doesFormulaGenerateHtmlOutput>true</doesFormulaGenerateHtmlOutput>
     <enableFlowBREncodedFixEnabled>true</enableFlowBREncodedFixEnabled>
     <enableFlowCustomPropertyEditor>false</enableFlowCustomPropertyEditor>
     <enableFlowDeployAsActiveEnabled>false</enableFlowDeployAsActiveEnabled>

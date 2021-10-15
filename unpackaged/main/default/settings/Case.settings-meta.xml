@@ -11,9 +11,9 @@
     <caseMergeInLightning>false</caseMergeInLightning>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
     <defaultCaseFeedLayoutOn>true</defaultCaseFeedLayoutOn>
-    <defaultCaseOwner>sam.fallon-git-demo-dev@gearset.com</defaultCaseOwner>
+    <defaultCaseOwner>sam.fallon-dev@gearset.com</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
-    <defaultCaseUser>sam.fallon-git-demo-dev@gearset.com</defaultCaseUser>
+    <defaultCaseUser>sam.fallon-dev@gearset.com</defaultCaseUser>
     <emailToCase>
         <enableEmailToCase>false</enableEmailToCase>
     </emailToCase>
